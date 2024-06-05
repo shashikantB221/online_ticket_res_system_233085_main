@@ -1,0 +1,26 @@
+233085_Shashikant_Badgujar
+Online ticket reservation system
+
+Objective: OTRS (Online ticket reservation system) is web based application featured for creating ease on scenario of booking any type of travel system. It is mainly focuses on bus transport, train, and airline transport ticketing. To enhance digitalization into reservation and to make the ticket reservation more efficient and reliable is main objective.
+Scope: ORTS mainly focused on intrastate connectivity in transportation field. While some features are available on international level viz. Airline ticket booking system. While state to state transportation adopt it can be useful in all regions and languages.
+Functional Requirements:
+1.	It is available for direct user and indirect use. Anonymous user can surf web app easily to check timings of trains, buses and flights etc. It is provided with platform independency.
+2.	User registration is validated by adhar or pan number for maintaining his health records as it confirms whether user is vaccinated or not for safe journey.
+3.	Registered or Direct users can create profile and sign in to access his/her portal. Various options includes booking of transport (system wide). User can select source and destination and accordingly can find suitable way of transport.
+4.	Payment client is provide with SSL security protocol and it can be done via debit/credit cards or UPI. For better performance user is prompted to go for card payments but designing mode of payment as up reliable also.
+5.	Various tabs mentioning type of transport at the beginning of app will add separation and makes user comfortable for selecting their mode of transport.
+6.	Registered users can go through alerts of cancellation anytime via prompts by sms or email whatever is selected. So that advanced adjustments of another option can be managed by user thus maintains reliability.
+7.	There is facility provided by web app that can be operated on any OS, such as mac, Windows, Android, iOS. So that portability is achieved.
+8.	User can reserve their tickets e.g. Bus will generated in the form of pdf receipt can be downloaded of his/her device also tickets details are generated and send to user via registered mobile number and email. 
+9.	Both registered and unregistered user can check seat availability in application and system should provide 99.99% accurate booking records and 24*7 available 
+10.	App should also provide in travel food facility asper ticket criteria so that user can book his meal in advance.
+
+
+
+Non Functional Requirements
+1.	Security: To ensure security and protection from malware attacks, phishing, application is protected with firewall and antivirus layer.
+2.	Reliability: application will give 99.99% wake time and 24x7 availability. During peak load it is manage its database backups functionality as well as load balancing on database servers
+3.	Portability: application should be platform dependent so any user can download it upon their platform wise OS. Thus user can work parallels on same account via smartphone, tablets, or desktops/laptops.
+4.	Modularity : application provides separation of transport menu such as Bus transport, Train transport and flight transport thus it forms modular approach and becomes easy to for developers to work on part of system
+5.	Efficiency: application should be durable and efficient in peak time of booking reservations
+

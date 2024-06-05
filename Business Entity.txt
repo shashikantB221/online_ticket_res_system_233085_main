@@ -1,0 +1,14 @@
+User
+1) userid
+2) ticketid
+3) transport type
+4) date of journey
+5) soucr pnt
+6) dest pnt
+7) fare
+
+
+admin 
+1) admin id
+2) organization
+3) department

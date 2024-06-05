@@ -1,0 +1,15 @@
+User operations
+1. Registraion 
+2. Signing in
+3. Selecting type of transport mode
+4. payments
+5. Ticket history
+6. Status of transport utility
+7. signout
+
+
+Admin operation
+1. Signin through department credential
+2. Validating system working
+3. managing all records of database
+4. Development of new operations
